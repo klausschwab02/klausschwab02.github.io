@@ -1,5 +1,3 @@
-<!-- give all credit to elk https://github.com/3elk/Website-IP-Logger -->
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
